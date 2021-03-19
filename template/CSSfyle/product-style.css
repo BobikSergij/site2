@@ -1,0 +1,115 @@
+.content{
+    min-width: 720px;
+    max-width: 960px;
+    margin: 0 auto;
+    border-bottom: 1px solid #c3c5c5;
+}
+
+.content h1{
+    font-family: "Merriweather","HelveticaNeue","Helvetica Neue",sans-serif;
+    font-weight: 700;
+    color: #403f3f;
+    font-size: 38px;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 8%;
+}
+
+.content .product-box{
+    width: 75%;
+    /*margin: 0 auto;*/
+    overflow: hidden;
+    clear: both;
+
+}
+
+.content .box{
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+
+/*.content .box4{*/
+    /*width: 33%;*/
+    /*float: left;*/
+    /*text-align: center;*/
+/*}*/
+
+.list .pagination{
+    clear: both;
+}
+
+.list .pagination li{
+
+    list-style: none;
+    float: left;
+    margin-left: 7px;
+
+}
+
+.content .box img{
+    max-width: 100%;
+    width: auto;
+}
+
+.content .box img:hover{
+    opacity: 0.8;
+}
+
+.content .box a{
+    font-family: Arial, Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #403f3f;
+    text-decoration: none;
+}
+
+.content .box p{
+    color: #a1a1a1;
+}
+
+.content .box p span{
+    text-decoration: line-through;
+}
+
+.product-box .box .img-inner{
+    height: 260px;
+}
+
+.content .list{
+    width: 30%;
+    text-align: center;
+    margin: 6% auto;
+}
+
+.content .list i{
+    margin-right: 8%;
+    font-size: 28px;
+    color: #a1a2a2;
+}
+
+.content .list span i{
+    margin-right: 0;
+    margin-left: 8%;
+}
+
+.content .list a{
+    margin-right: 4%;
+    margin-left: 4%;
+    text-decoration: none;
+    color: #5f6162;
+    font: 18px Arial, Verdana, Tahoma, sans-serif;
+}
+
+.content .list i:hover{
+    color: #41c5a4;
+}
+
+.center{
+    text-align: center;
+    font: bold 25px Arial, Verdana, Tahoma, sans-serif;
+}
+
+.table table{
+    min-width: 720px;
+    max-width: 960px;
+}

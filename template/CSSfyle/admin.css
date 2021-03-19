@@ -1,0 +1,61 @@
+.zaq{
+    font: bold 18px Arial, sans-serif;
+    list-style-type: none;
+}
+
+.content .row ul a{
+    color: #090909;
+
+}
+
+.content .row ul a:hover{
+    color: #525252;
+}
+
+
+.content_admin{
+    min-width: 720px;
+    max-width: 960px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.content_admin table{
+    min-width: 720px;
+    max-width: 960px;
+    margin: 0 auto;
+
+}
+
+.content_admin table th{
+    background-color: #8b8b8b;
+}
+
+.content_admin table td{
+    background-color: #c3c5c5;
+    font: 18px URW Chancery L, cursive ;
+    max-width: 720px;
+}
+
+.submit {
+    margin-top: 5%;
+
+}
+
+.submit {
+    margin-top: 5%;
+    text-align: center;
+    font: bold 22px Arial,Verdana,Tahoma, sana-serif;
+
+}
+
+.submit a {
+    color: #090909;
+    padding: 1%;
+    text-decoration: none;
+    background: #d5d5d5;
+    border: 2px solid #090909;
+}
+.submit a:hover{
+    color: #5f6162;
+}

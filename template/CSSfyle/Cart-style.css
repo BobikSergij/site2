@@ -1,0 +1,147 @@
+.content{
+    min-width: 720px;
+    max-width: 960px;
+    width: 60%;
+    margin: 0 auto;
+    border-bottom: 1px solid #c3c5c5;
+}
+
+.content h1{
+    font-family: "Merriweather","HelveticaNeue","Helvetica Neue",sans-serif;
+    font-weight: 700;
+    color: #403f3f;
+    font-size: 38px;
+    text-align: center;
+    margin-top: 6%;
+    margin-bottom: 8%;
+}
+
+.content .product-box1{
+    overflow: hidden;
+    border-bottom: 1px solid #c3c5c5;
+}
+
+.content .product-box1 p{
+    font-family: "Merriweather","HelveticaNeue","Helvetica Neue",sans-serif;
+    font-weight: bold;
+    color: #403f3f;
+    font-size: 14px;
+    float: left;
+}
+
+.content .product-box1 #right-total{
+    float: right;
+}
+
+.content .product-box1 #quantity{
+    margin-left: 50%;
+}
+
+.content .product-box2{
+    overflow: hidden;
+    border-bottom: 1px solid #c3c5c5;
+}
+
+.content .product-box2 .box1{
+    width: 30%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    float: left;
+}
+
+.content .product-box2 .box1 a{
+    text-decoration: none;
+    font-family: "Merriweather","HelveticaNeue","Helvetica Neue",sans-serif;
+    font-weight: bold;
+    color: #403f3f;
+    font-size: 16px;
+}
+
+.content .product-box2 .box1 a span{
+    font: 14px Arial, Verdana, Tahoma, sans-serif;
+    color: #62b2a7;
+}
+
+.content .product-box2 .box1 a:hover, .content .product-box2 .box1 a span:hover{
+    color: #12bba4;
+}
+
+.content .product-box2 .box2{
+    width: 20%;
+    float: left;
+}
+
+.content .product-box2 .box2 img{
+    width: 150px;
+    margin-top: 25%;
+}
+
+.content .product-box2 .box3 input{
+    width: 50px;
+    height: 40px;
+    margin-top: 10%;
+    margin-left: 8%;
+    text-align: center;
+}
+
+.content .product-box2 .box4{
+    float: right;
+    margin-top: -7%;
+}
+
+.content .product-box2 .box4 p{
+    font-size: 1.46825em;
+    font-family: "Merriweather","HelveticaNeue","Helvetica Neue",sans-serif;
+    font-weight: 700;
+    color: #403f3f;
+    margin: 0 0 0.5em;
+    line-height: 1.4;
+}
+
+.content .product-box3 .total p{
+    text-align: right;
+    font: bold 22px Arial, sans-serif;
+}
+
+.content .product-box3 p{
+    text-align: right;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.content .product-box3{
+    overflow: hidden;
+    margin-bottom: 8%;
+}
+
+.content .product-box3 input{
+    float: right;
+    width: 19%;
+    height: 35px;
+    border-radius: 10%;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 0;
+    line-height: 1.42;
+    font-weight: bold;
+    font-family: "Montserrat","HelveticaNeue","Helvetica Neue",sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    background-color: #25be8d;
+}
+
+.content .product-box3 input:hover{
+    background-color: #12bba4;
+}
+
+.content .product-box3 .btn{
+    margin-right: 2%;
+    background-color: #d5d5d5;
+}
+
+.content .product-box3 .btn:hover{
+    background-color: #8b8b8b;
+}
